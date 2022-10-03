@@ -1,0 +1,31 @@
+Receipt Ref:		BILL7961		03/10/2022
+***************************************************************
+Items:		 Cost Of Items(Rs)
+***************************************************************
+Butter Paneer Masala			210
+
+Dal Makhani			160
+
+Butter Roti			80
+
+Butter Naan			240
+
+Mango			160
+
+Strawberry			180
+
+***************************************************************
+Cost Of Food			370Rs
+
+Cost Of Roti			320Rs
+
+Cost Of Ice-Cream			340Rs
+
+Sub Total			1030Rs
+
+GST Tax			51Rs
+
+Total Cost			1081Rs
+
+***************************************************************
+
